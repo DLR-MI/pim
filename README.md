@@ -1,2 +1,2 @@
 # pim
-Official tensorflow implementation of PIM
+Official tensorflow implementation of PIM coming soon!
