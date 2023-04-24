@@ -116,3 +116,14 @@ For classification datasets, PIM gets better estimates of confidence intervals f
       url = "http://archive.ics.uci.edu/ml",
       institution = "University of California, Irvine, School of Information and Computer Sciences" }
 ```
+
+```
+@misc{solanocarrillo2023single,
+      title={Can a single neuron learn predictive uncertainty?}, 
+      author={Edgardo Solano-Carrillo},
+      year={2023},
+      eprint={2106.03702},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML}
+}
+```
